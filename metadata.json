@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Redirect Tutorial",
+  "description": "A landing page with a video tutorial on how to open links in the browser to access Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
